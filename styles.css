@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    background: #F0F8FF;
+    color: #000080;
+}
+
+h1, h2 {
+    font-family: Icon, serif;
+    color: #FFD700;
+}
+
+a {
+    color: #00BFFF;
+}
+
+section {
+    padding: 3rem;
+}
