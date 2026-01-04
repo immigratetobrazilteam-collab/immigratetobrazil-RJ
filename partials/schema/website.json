@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rio de Janeiro Immigration Site",
+  "url": "https://immigratetobrazil.com/rj/",
+  "description": "Rio de Janeiro state, in Brazil's Southeast Region, features a tropical climate, diverse geography with mountains and coastline, a population of over 16 million, and a strong economy driven by services and oil. Known for its beaches, Carnival, and landmarks like Christ the Redeemer.",
+  "keywords": [
+    "Rio de Janeiro",
+    "Brazil",
+    "Southeast Region",
+    "Carnival",
+    "beaches",
+    "oil production",
+    "tourism"
+  ],
+  "inLanguage": "en"
+}
