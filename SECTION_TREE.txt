@@ -1,1098 +1,664 @@
-rj/
+RJ/
 ├─ index.html
-│  ├─ rj-index-section-immigrate-to-rio-de-janeiro
-│  ├─ rj-index-form-immigrate-to-rio-de-janeiro
-│  ├─ rj-index-section-state-vibe
-│  ├─ rj-index-section-quick-facts-snapshot
-│  ├─ rj-index-section-rio-de-janeiro-map
-│  ├─ rj-index-section-cost-of-living-rio-de-janeiro
-│  ├─ rj-index-section-government-context
-│  ├─ rj-index-hero-immigration-notes
-│  ├─ rj-index-list-common-applicant-profiles
-│  ├─ rj-index-list-economic-drivers
-│  ├─ rj-index-section-demographics
-│  ├─ rj-index-section-regional-challenges
-│  ├─ rj-index-section-regional-opportunities
-│  ├─ rj-index-section-culture-daily-life
-│  ├─ rj-index-list-local-language-expressions
-│  ├─ rj-index-list-food-cuisine
-│  ├─ rj-index-list-festivals-traditions
-│  ├─ rj-index-list-music-artistic-expression
-│  ├─ rj-index-list-sports-recreation
-│  ├─ rj-index-list-landmarks-historical-sites
-│  ├─ rj-index-list-natural-features
-│  ├─ rj-index-list-parks-protected-areas
-│  ├─ rj-index-list-museums-cultural-institutions
-│  ├─ rj-index-section-image-gallery
-│  ├─ rj-index-section-useful-government-links
-│  ├─ rj-index-hero-federal-police-immigration-links
-│  ├─ rj-index-section-external-references
-│  ├─ rj-index-list-immigration-services-overview
-│  ├─ rj-index-section-why-immigrate-here
-│  ├─ rj-index-section-legal-guidance-disclaimers
-│  ├─ contact
-│  ├─ rj-index-list-travel-services
-│  ├─ rj-index-list-how-the-process-works
-│  ├─ rj-index-section--frequently-asked-questions-about-living-in-rio-de-janeiro-
-│  ├─ contact
+│  ├─ rj-index-section--map
+│  ├─ rj-index-section-frequently-asked-questions-about-living-in-
+│  ├─ rj-index-contact
 
-├─ contact-cta.html
-│  ├─ rj-contactcta-section-get-started-in-rio-de-janeiro
+├─ footer.html
+│  ├─ main-footer
 
-├─ renouncing-citizenship.html
-│  ├─ rj-renouncingcitizenship-form-renounce-brazilian-citizenship
-│  ├─ rj-renouncingcitizenship-list-quick-facts
-│  ├─ rj-renouncingcitizenship-list-common-challenges-applicants-face
-│  ├─ rj-renouncingcitizenship-list-how-we-solve-these-challenges
-│  ├─ rj-renouncingcitizenship-section-renunciation-overview
-│  ├─ rj-renouncingcitizenship-form-who-is-this-for
-│  ├─ rj-renouncingcitizenship-list-required-documents
-│  ├─ rj-renouncingcitizenship-list-process
-│  ├─ rj-renouncingcitizenship-section-timelines-deadlines
-│  ├─ rj-renouncingcitizenship-section-fees-costs
-│  ├─ rj-renouncingcitizenship-list-risks-common-mistakes
-│  ├─ rj-renouncingcitizenship-section-diy-vs-professional-assistance
-│  ├─ rj-renouncingcitizenship-section-rio-de-janeiro-specific-context
-│  ├─ rj-renouncingcitizenship-section-what-our-clients-say
-│  ├─ rj-renouncingcitizenship-section-frequently-asked-questions
-│  ├─ rj-renouncingcitizenship-section-international-support
-│  ├─ application-form
-│  ├─ rj-renouncingcitizenship-list-our-credentials
-│  ├─ rj-renouncingcitizenship-list-related-services
-│  ├─ rj-renouncingcitizenship-section-youre-in-good-hands
-│  ├─ rj-renouncingcitizenship-section-21
+├─ header.html
+│  ├─ main-header
 
-├─ provisional.html
-│  ├─ rj-provisional-form-provisional-naturalisation-in-brazil-for-minors
-│  ├─ rj-provisional-list-quick-facts
-│  ├─ rj-provisional-list-common-challenges-applicants-face
-│  ├─ rj-provisional-list-how-we-solve-these-challenges
-│  ├─ rj-provisional-section-naturalisation-overview
-│  ├─ rj-provisional-form-who-is-this-naturalisation-for
-│  ├─ rj-provisional-list-required-documents
-│  ├─ rj-provisional-list-application-process
-│  ├─ rj-provisional-section-timelines-deadlines
-│  ├─ rj-provisional-section-fees-costs
-│  ├─ rj-provisional-list-risks-common-mistakes
-│  ├─ rj-provisional-section-diy-vs-professional-assistance
-│  ├─ rj-provisional-section-rio-de-janeiro-specific-context
-│  ├─ rj-provisional-section-what-our-clients-say
-│  ├─ rj-provisional-section-frequently-asked-questions
-│  ├─ rj-provisional-section-international-support
-│  ├─ application-form
-│  ├─ rj-provisional-list-our-credentials
-│  ├─ rj-provisional-list-related-services
-│  ├─ rj-provisional-section-youre-in-good-hands
-│  ├─ rj-provisional-section-21
-
-├─ special.html
-│  ├─ rj-special-form-special-naturalisation-in-brazil-for-particular-cases
-│  ├─ rj-special-list-quick-facts
-│  ├─ rj-special-list-common-challenges-applicants-face
-│  ├─ rj-special-list-how-we-solve-these-challenges
-│  ├─ rj-special-section-naturalisation-overview
-│  ├─ rj-special-form-who-is-this-naturalisation-for
-│  ├─ rj-special-list-required-documents
-│  ├─ rj-special-list-application-process
-│  ├─ rj-special-section-timelines-deadlines
-│  ├─ rj-special-section-fees-costs
-│  ├─ rj-special-list-risks-common-mistakes
-│  ├─ rj-special-section-diy-vs-professional-assistance
-│  ├─ rj-special-section-rio-de-janeiro-specific-context
-│  ├─ rj-special-section-what-our-clients-say
-│  ├─ rj-special-section-frequently-asked-questions
-│  ├─ rj-special-section-international-support
-│  ├─ application-form
-│  ├─ rj-special-list-our-credentials
-│  ├─ rj-special-list-related-services
-│  ├─ rj-special-section-youre-in-good-hands
-│  ├─ rj-special-section-21
-
-├─ ordinary.html
-│  ├─ rj-ordinary-form-obtain-brazilian-citizenship-through-ordinary-naturalisation
-│  ├─ rj-ordinary-list-quick-facts
-│  ├─ rj-ordinary-list-common-challenges-applicants-face
-│  ├─ rj-ordinary-list-how-we-solve-these-challenges
-│  ├─ rj-ordinary-section-naturalisation-overview
-│  ├─ rj-ordinary-form-who-is-this-naturalisation-for
-│  ├─ rj-ordinary-list-required-documents
-│  ├─ rj-ordinary-list-application-process
-│  ├─ rj-ordinary-section-timelines-deadlines
-│  ├─ rj-ordinary-section-fees-costs
-│  ├─ rj-ordinary-list-risks-common-mistakes
-│  ├─ rj-ordinary-section-diy-vs-professional-assistance
-│  ├─ rj-ordinary-section-rio-de-janeiro-specific-context
-│  ├─ rj-ordinary-section-what-our-clients-say
-│  ├─ rj-ordinary-section-frequently-asked-questions
-│  ├─ rj-ordinary-section-international-support
-│  ├─ application-form
-│  ├─ rj-ordinary-list-our-credentials
-│  ├─ rj-ordinary-list-related-services
-│  ├─ rj-ordinary-section-youre-in-good-hands
-│  ├─ rj-ordinary-section-21
-
-├─ extraordinary.html
-│  ├─ rj-extraordinary-form-extraordinary-naturalisation-in-brazil-for-contributions
-│  ├─ rj-extraordinary-list-quick-facts
-│  ├─ rj-extraordinary-list-common-challenges-applicants-face
-│  ├─ rj-extraordinary-list-how-we-solve-these-challenges
-│  ├─ rj-extraordinary-section-naturalisation-overview
-│  ├─ rj-extraordinary-form-who-is-this-naturalisation-for
-│  ├─ rj-extraordinary-list-required-documents
-│  ├─ rj-extraordinary-list-application-process
-│  ├─ rj-extraordinary-section-timelines-deadlines
-│  ├─ rj-extraordinary-section-fees-costs
-│  ├─ rj-extraordinary-list-risks-common-mistakes
-│  ├─ rj-extraordinary-section-diy-vs-professional-assistance
-│  ├─ rj-extraordinary-section-rio-de-janeiro-specific-context
-│  ├─ rj-extraordinary-section-what-our-clients-say
-│  ├─ rj-extraordinary-section-frequently-asked-questions
-│  ├─ rj-extraordinary-section-international-support
-│  ├─ application-form
-│  ├─ rj-extraordinary-list-our-credentials
-│  ├─ rj-extraordinary-list-related-services
-│  ├─ rj-extraordinary-section-youre-in-good-hands
-│  ├─ rj-extraordinary-section-21
-
-├─ reacquisition-citizenship.html
-│  ├─ rj-reacquisitioncitizenship-form-reacquire-brazilian-citizenship
-│  ├─ rj-reacquisitioncitizenship-list-quick-facts
-│  ├─ rj-reacquisitioncitizenship-list-common-challenges-applicants-face
-│  ├─ rj-reacquisitioncitizenship-list-how-we-solve-these-challenges
-│  ├─ rj-reacquisitioncitizenship-section-reacquisition-overview
-│  ├─ rj-reacquisitioncitizenship-form-who-is-this-for
-│  ├─ rj-reacquisitioncitizenship-list-required-documents
-│  ├─ rj-reacquisitioncitizenship-list-process
-│  ├─ rj-reacquisitioncitizenship-section-timelines-deadlines
-│  ├─ rj-reacquisitioncitizenship-section-fees-costs
-│  ├─ rj-reacquisitioncitizenship-list-risks-common-mistakes
-│  ├─ rj-reacquisitioncitizenship-section-diy-vs-professional-assistance
-│  ├─ rj-reacquisitioncitizenship-section-rio-de-janeiro-specific-context
-│  ├─ rj-reacquisitioncitizenship-section-what-our-clients-say
-│  ├─ rj-reacquisitioncitizenship-section-frequently-asked-questions
-│  ├─ rj-reacquisitioncitizenship-section-international-support
-│  ├─ application-form
-│  ├─ rj-reacquisitioncitizenship-list-our-credentials
-│  ├─ rj-reacquisitioncitizenship-list-related-services
-│  ├─ rj-reacquisitioncitizenship-section-youre-in-good-hands
-│  ├─ rj-reacquisitioncitizenship-section-21
-
-├─ scientific-research.html
-│  ├─ rj-scientificresearch-form-conduct-scientific-research-with-residency-in-brazil
-│  ├─ rj-scientificresearch-list-quick-facts
-│  ├─ rj-scientificresearch-list-common-challenges-applicants-face
-│  ├─ rj-scientificresearch-list-how-we-solve-these-challenges
-│  ├─ rj-scientificresearch-section-residency-overview
-│  ├─ rj-scientificresearch-form-who-is-this-residency-for
-│  ├─ rj-scientificresearch-list-required-documents
-│  ├─ rj-scientificresearch-list-application-process
-│  ├─ rj-scientificresearch-section-timelines-deadlines
-│  ├─ rj-scientificresearch-section-fees-costs
-│  ├─ rj-scientificresearch-list-risks-common-mistakes
-│  ├─ rj-scientificresearch-section-diy-vs-professional-assistance
-│  ├─ rj-scientificresearch-section-rio-de-janeiro-specific-context
-│  ├─ rj-scientificresearch-section-what-our-clients-say
-│  ├─ rj-scientificresearch-section-frequently-asked-questions
-│  ├─ rj-scientificresearch-section-international-support
-│  ├─ application-form
-│  ├─ rj-scientificresearch-list-our-credentials
-│  ├─ rj-scientificresearch-list-related-services
-│  ├─ rj-scientificresearch-section-youre-in-good-hands
-│  ├─ rj-scientificresearch-section-21
-
-├─ study.html
-│  ├─ rj-study-form-study-in-brazil-with-study-residency
-│  ├─ rj-study-list-quick-facts
-│  ├─ rj-study-list-common-challenges-applicants-face
-│  ├─ rj-study-list-how-we-solve-these-challenges
-│  ├─ rj-study-section-residency-overview
-│  ├─ rj-study-form-who-is-this-residency-for
-│  ├─ rj-study-list-required-documents
-│  ├─ rj-study-list-application-process
-│  ├─ rj-study-section-timelines-deadlines
-│  ├─ rj-study-section-fees-costs
-│  ├─ rj-study-list-risks-common-mistakes
-│  ├─ rj-study-section-diy-vs-professional-assistance
-│  ├─ rj-study-section-rio-de-janeiro-specific-context
-│  ├─ rj-study-section-what-our-clients-say
-│  ├─ rj-study-section-frequently-asked-questions
-│  ├─ rj-study-section-international-support
-│  ├─ application-form
-│  ├─ rj-study-list-our-credentials
-│  ├─ rj-study-list-related-services
-│  ├─ rj-study-section-youre-in-good-hands
-│  ├─ rj-study-section-21
-
-├─ educational-exchange.html
-│  ├─ rj-educationalexchange-form-participate-in-educational-exchanges-with-residency-in-brazil
-│  ├─ rj-educationalexchange-list-quick-facts
-│  ├─ rj-educationalexchange-list-common-challenges-applicants-face
-│  ├─ rj-educationalexchange-list-how-we-solve-these-challenges
-│  ├─ rj-educationalexchange-section-residency-overview
-│  ├─ rj-educationalexchange-form-who-is-this-residency-for
-│  ├─ rj-educationalexchange-list-required-documents
-│  ├─ rj-educationalexchange-list-application-process
-│  ├─ rj-educationalexchange-section-timelines-deadlines
-│  ├─ rj-educationalexchange-section-fees-costs
-│  ├─ rj-educationalexchange-list-risks-common-mistakes
-│  ├─ rj-educationalexchange-section-diy-vs-professional-assistance
-│  ├─ rj-educationalexchange-section-rio-de-janeiro-specific-context
-│  ├─ rj-educationalexchange-section-what-our-clients-say
-│  ├─ rj-educationalexchange-section-frequently-asked-questions
-│  ├─ rj-educationalexchange-section-international-support
-│  ├─ application-form
-│  ├─ rj-educationalexchange-list-our-credentials
-│  ├─ rj-educationalexchange-list-related-services
-│  ├─ rj-educationalexchange-section-youre-in-good-hands
-│  ├─ rj-educationalexchange-section-21
-
-├─ humanitarian.html
-│  ├─ rj-humanitarian-form-humanitarian-residency-in-brazil-for-protection
-│  ├─ rj-humanitarian-list-quick-facts
-│  ├─ rj-humanitarian-list-common-challenges-applicants-face
-│  ├─ rj-humanitarian-list-how-we-solve-these-challenges
-│  ├─ rj-humanitarian-section-residency-overview
-│  ├─ rj-humanitarian-form-who-is-this-residency-for
-│  ├─ rj-humanitarian-list-required-documents
-│  ├─ rj-humanitarian-list-application-process
-│  ├─ rj-humanitarian-section-timelines-deadlines
-│  ├─ rj-humanitarian-section-fees-costs
-│  ├─ rj-humanitarian-list-risks-common-mistakes
-│  ├─ rj-humanitarian-section-diy-vs-professional-assistance
-│  ├─ rj-humanitarian-section-rio-de-janeiro-specific-context
-│  ├─ rj-humanitarian-section-what-our-clients-say
-│  ├─ rj-humanitarian-section-frequently-asked-questions
-│  ├─ rj-humanitarian-section-international-support
-│  ├─ application-form
-│  ├─ rj-humanitarian-list-our-credentials
-│  ├─ rj-humanitarian-list-related-services
-│  ├─ rj-humanitarian-section-youre-in-good-hands
-│  ├─ rj-humanitarian-section-21
-
-├─ digital-nomad.html
-│  ├─ rj-digitalnomad-form-digital-nomad-residency-in-brazil
-│  ├─ rj-digitalnomad-list-quick-facts
-│  ├─ rj-digitalnomad-list-common-challenges-applicants-face
-│  ├─ rj-digitalnomad-list-how-we-solve-these-challenges
-│  ├─ rj-digitalnomad-section-residency-overview
-│  ├─ rj-digitalnomad-form-who-is-this-residency-for
-│  ├─ rj-digitalnomad-list-required-documents
-│  ├─ rj-digitalnomad-list-application-process
-│  ├─ rj-digitalnomad-section-timelines-deadlines
-│  ├─ rj-digitalnomad-section-fees-costs
-│  ├─ rj-digitalnomad-list-risks-common-mistakes
-│  ├─ rj-digitalnomad-section-diy-vs-professional-assistance
-│  ├─ rj-digitalnomad-section-rio-de-janeiro-specific-context
-│  ├─ rj-digitalnomad-section-what-our-clients-say
-│  ├─ rj-digitalnomad-section-frequently-asked-questions
-│  ├─ rj-digitalnomad-section-international-support
-│  ├─ application-form
-│  ├─ rj-digitalnomad-list-our-credentials
-│  ├─ rj-digitalnomad-list-related-services
-│  ├─ rj-digitalnomad-section-youre-in-good-hands
-│  ├─ rj-digitalnomad-section-21
-
-├─ family-reunion.html
-│  ├─ rj-familyreunion-form-reunite-with-family-in-brazil-with-family-reunion-residency
-│  ├─ rj-familyreunion-list-quick-facts
-│  ├─ rj-familyreunion-list-common-challenges-applicants-face
-│  ├─ rj-familyreunion-list-how-we-solve-these-challenges
-│  ├─ rj-familyreunion-section-residency-overview
-│  ├─ rj-familyreunion-form-who-is-this-residency-for
-│  ├─ rj-familyreunion-list-required-documents
-│  ├─ rj-familyreunion-list-application-process
-│  ├─ rj-familyreunion-section-timelines-deadlines
-│  ├─ rj-familyreunion-section-fees-costs
-│  ├─ rj-familyreunion-list-risks-common-mistakes
-│  ├─ rj-familyreunion-section-diy-vs-professional-assistance
-│  ├─ rj-familyreunion-section-rio-de-janeiro-specific-context
-│  ├─ rj-familyreunion-section-what-our-clients-say
-│  ├─ rj-familyreunion-section-frequently-asked-questions
-│  ├─ rj-familyreunion-section-international-support
-│  ├─ application-form
-│  ├─ rj-familyreunion-list-our-credentials
-│  ├─ rj-familyreunion-list-related-services
-│  ├─ rj-familyreunion-section-youre-in-good-hands
-│  ├─ rj-familyreunion-section-21
-
-├─ mercosul.html
-│  ├─ rj-mercosul-form-residency-for-mercosul-citizens-in-brazil
-│  ├─ rj-mercosul-list-quick-facts
-│  ├─ rj-mercosul-list-common-challenges-applicants-face
-│  ├─ rj-mercosul-list-how-we-solve-these-challenges
-│  ├─ rj-mercosul-section-residency-overview
-│  ├─ rj-mercosul-form-who-is-this-residency-for
-│  ├─ rj-mercosul-list-required-documents
-│  ├─ rj-mercosul-list-application-process
-│  ├─ rj-mercosul-section-timelines-deadlines
-│  ├─ rj-mercosul-section-fees-costs
-│  ├─ rj-mercosul-list-risks-common-mistakes
-│  ├─ rj-mercosul-section-diy-vs-professional-assistance
-│  ├─ rj-mercosul-section-rio-de-janeiro-specific-context
-│  ├─ rj-mercosul-section-what-our-clients-say
-│  ├─ rj-mercosul-section-frequently-asked-questions
-│  ├─ rj-mercosul-section-international-support
-│  ├─ application-form
-│  ├─ rj-mercosul-list-our-credentials
-│  ├─ rj-mercosul-list-related-services
-│  ├─ rj-mercosul-section-youre-in-good-hands
-│  ├─ rj-mercosul-section-21
-
-├─ retiree.html
-│  ├─ rj-retiree-form-retire-in-brazil-with-retiree-residency
-│  ├─ rj-retiree-list-quick-facts
-│  ├─ rj-retiree-list-common-challenges-applicants-face
-│  ├─ rj-retiree-list-how-we-solve-these-challenges
-│  ├─ rj-retiree-section-residency-overview
-│  ├─ rj-retiree-form-who-is-this-residency-for
-│  ├─ rj-retiree-list-required-documents
-│  ├─ rj-retiree-list-application-process
-│  ├─ rj-retiree-section-timelines-deadlines
-│  ├─ rj-retiree-section-fees-costs
-│  ├─ rj-retiree-list-risks-common-mistakes
-│  ├─ rj-retiree-section-diy-vs-professional-assistance
-│  ├─ rj-retiree-section-rio-de-janeiro-specific-context
-│  ├─ rj-retiree-section-what-our-clients-say
-│  ├─ rj-retiree-section-frequently-asked-questions
-│  ├─ rj-retiree-section-international-support
-│  ├─ application-form
-│  ├─ rj-retiree-list-our-credentials
-│  ├─ rj-retiree-list-related-services
-│  ├─ rj-retiree-section-youre-in-good-hands
-│  ├─ rj-retiree-section-21
-
-├─ volunteer.html
-│  ├─ rj-volunteer-form-volunteer-in-brazil-with-volunteer-residency
-│  ├─ rj-volunteer-list-quick-facts
-│  ├─ rj-volunteer-list-common-challenges-applicants-face
-│  ├─ rj-volunteer-list-how-we-solve-these-challenges
-│  ├─ rj-volunteer-section-residency-overview
-│  ├─ rj-volunteer-form-who-is-this-residency-for
-│  ├─ rj-volunteer-list-required-documents
-│  ├─ rj-volunteer-list-application-process
-│  ├─ rj-volunteer-section-timelines-deadlines
-│  ├─ rj-volunteer-section-fees-costs
-│  ├─ rj-volunteer-list-risks-common-mistakes
-│  ├─ rj-volunteer-section-diy-vs-professional-assistance
-│  ├─ rj-volunteer-section-rio-de-janeiro-specific-context
-│  ├─ rj-volunteer-section-what-our-clients-say
-│  ├─ rj-volunteer-section-frequently-asked-questions
-│  ├─ rj-volunteer-section-international-support
-│  ├─ application-form
-│  ├─ rj-volunteer-list-our-credentials
-│  ├─ rj-volunteer-list-related-services
-│  ├─ rj-volunteer-section-youre-in-good-hands
-│  ├─ rj-volunteer-section-21
-
-├─ skilled-worker.html
-│  ├─ rj-skilledworker-form-skilled-worker-residency-in-brazil-for-professionals
-│  ├─ rj-skilledworker-list-quick-facts
-│  ├─ rj-skilledworker-list-common-challenges-applicants-face
-│  ├─ rj-skilledworker-list-how-we-solve-these-challenges
-│  ├─ rj-skilledworker-section-residency-overview
-│  ├─ rj-skilledworker-form-who-is-this-residency-for
-│  ├─ rj-skilledworker-list-required-documents
-│  ├─ rj-skilledworker-list-application-process
-│  ├─ rj-skilledworker-section-timelines-deadlines
-│  ├─ rj-skilledworker-section-fees-costs
-│  ├─ rj-skilledworker-list-risks-common-mistakes
-│  ├─ rj-skilledworker-section-diy-vs-professional-assistance
-│  ├─ rj-skilledworker-section-rio-de-janeiro-specific-context
-│  ├─ rj-skilledworker-section-what-our-clients-say
-│  ├─ rj-skilledworker-section-frequently-asked-questions
-│  ├─ rj-skilledworker-section-international-support
-│  ├─ application-form
-│  ├─ rj-skilledworker-list-our-credentials
-│  ├─ rj-skilledworker-list-related-services
-│  ├─ rj-skilledworker-section-youre-in-good-hands
-│  ├─ rj-skilledworker-section-21
-
-├─ religious.html
-│  ├─ rj-religious-form-religious-residency-in-brazil-for-missions
-│  ├─ rj-religious-list-quick-facts
-│  ├─ rj-religious-list-common-challenges-applicants-face
-│  ├─ rj-religious-list-how-we-solve-these-challenges
-│  ├─ rj-religious-section-residency-overview
-│  ├─ rj-religious-form-who-is-this-residency-for
-│  ├─ rj-religious-list-required-documents
-│  ├─ rj-religious-list-application-process
-│  ├─ rj-religious-section-timelines-deadlines
-│  ├─ rj-religious-section-fees-costs
-│  ├─ rj-religious-list-risks-common-mistakes
-│  ├─ rj-religious-section-diy-vs-professional-assistance
-│  ├─ rj-religious-section-rio-de-janeiro-specific-context
-│  ├─ rj-religious-section-what-our-clients-say
-│  ├─ rj-religious-section-frequently-asked-questions
-│  ├─ rj-religious-section-international-support
-│  ├─ application-form
-│  ├─ rj-religious-list-our-credentials
-│  ├─ rj-religious-list-related-services
-│  ├─ rj-religious-section-youre-in-good-hands
-│  ├─ rj-religious-section-21
-
-├─ investor.html
-│  ├─ rj-investor-form-gain-residency-in-brazil-through-investment
-│  ├─ rj-investor-list-quick-facts
-│  ├─ rj-investor-list-common-challenges-applicants-face
-│  ├─ rj-investor-list-how-we-solve-these-challenges
-│  ├─ rj-investor-section-residency-overview
-│  ├─ rj-investor-form-who-is-this-residency-for
-│  ├─ rj-investor-list-required-documents
-│  ├─ rj-investor-list-application-process
-│  ├─ rj-investor-section-timelines-deadlines
-│  ├─ rj-investor-section-fees-costs
-│  ├─ rj-investor-list-risks-common-mistakes
-│  ├─ rj-investor-section-diy-vs-professional-assistance
-│  ├─ rj-investor-section-rio-de-janeiro-specific-context
-│  ├─ rj-investor-section-what-our-clients-say
-│  ├─ rj-investor-section-frequently-asked-questions
-│  ├─ rj-investor-section-international-support
-│  ├─ application-form
-│  ├─ rj-investor-list-our-credentials
-│  ├─ rj-investor-list-related-services
-│  ├─ rj-investor-section-youre-in-good-hands
-│  ├─ rj-investor-section-21
-
-├─ health-treatment.html
-│  ├─ rj-healthtreatment-form-extend-your-stay-for-health-treatment-in-brazil
-│  ├─ rj-healthtreatment-list-quick-facts
-│  ├─ rj-healthtreatment-list-common-challenges-applicants-face
-│  ├─ rj-healthtreatment-list-how-we-solve-these-challenges
-│  ├─ rj-healthtreatment-section-residency-overview
-│  ├─ rj-healthtreatment-form-who-is-this-residency-for
-│  ├─ rj-healthtreatment-list-required-documents
-│  ├─ rj-healthtreatment-list-application-process
-│  ├─ rj-healthtreatment-section-timelines-deadlines
-│  ├─ rj-healthtreatment-section-fees-costs
-│  ├─ rj-healthtreatment-list-risks-common-mistakes
-│  ├─ rj-healthtreatment-section-diy-vs-professional-assistance
-│  ├─ rj-healthtreatment-section-rio-de-janeiro-specific-context
-│  ├─ rj-healthtreatment-section-what-our-clients-say
-│  ├─ rj-healthtreatment-section-frequently-asked-questions
-│  ├─ rj-healthtreatment-section-international-support
-│  ├─ application-form
-│  ├─ rj-healthtreatment-list-our-credentials
-│  ├─ rj-healthtreatment-list-related-services
-│  ├─ rj-healthtreatment-section-youre-in-good-hands
-│  ├─ rj-healthtreatment-section-21
-
-├─ cplp.html
-│  ├─ rj-cplp-form-residency-for-cplp-citizens-in-brazil
-│  ├─ rj-cplp-list-quick-facts
-│  ├─ rj-cplp-list-common-challenges-applicants-face
-│  ├─ rj-cplp-list-how-we-solve-these-challenges
-│  ├─ rj-cplp-section-residency-overview
-│  ├─ rj-cplp-form-who-is-this-residency-for
-│  ├─ rj-cplp-list-required-documents
-│  ├─ rj-cplp-list-application-process
-│  ├─ rj-cplp-section-timelines-deadlines
-│  ├─ rj-cplp-section-fees-costs
-│  ├─ rj-cplp-list-risks-common-mistakes
-│  ├─ rj-cplp-section-diy-vs-professional-assistance
-│  ├─ rj-cplp-section-rio-de-janeiro-specific-context
-│  ├─ rj-cplp-section-what-our-clients-say
-│  ├─ rj-cplp-section-frequently-asked-questions
-│  ├─ rj-cplp-section-international-support
-│  ├─ application-form
-│  ├─ rj-cplp-list-our-credentials
-│  ├─ rj-cplp-list-related-services
-│  ├─ rj-cplp-section-youre-in-good-hands
-│  ├─ rj-cplp-section-21
-
-├─ youth-exchange.html
-│  ├─ rj-youthexchange-form-youth-exchange-residency-in-brazil-for-programs
-│  ├─ rj-youthexchange-list-quick-facts
-│  ├─ rj-youthexchange-list-common-challenges-applicants-face
-│  ├─ rj-youthexchange-list-how-we-solve-these-challenges
-│  ├─ rj-youthexchange-section-residency-overview
-│  ├─ rj-youthexchange-form-who-is-this-residency-for
-│  ├─ rj-youthexchange-list-required-documents
-│  ├─ rj-youthexchange-list-application-process
-│  ├─ rj-youthexchange-section-timelines-deadlines
-│  ├─ rj-youthexchange-section-fees-costs
-│  ├─ rj-youthexchange-list-risks-common-mistakes
-│  ├─ rj-youthexchange-section-diy-vs-professional-assistance
-│  ├─ rj-youthexchange-section-rio-de-janeiro-specific-context
-│  ├─ rj-youthexchange-section-what-our-clients-say
-│  ├─ rj-youthexchange-section-frequently-asked-questions
-│  ├─ rj-youthexchange-section-international-support
-│  ├─ application-form
-│  ├─ rj-youthexchange-list-our-credentials
-│  ├─ rj-youthexchange-list-related-services
-│  ├─ rj-youthexchange-section-youre-in-good-hands
-│  ├─ rj-youthexchange-section-21
-
-├─ work.html
-│  ├─ rj-work-form-work-and-reside-in-brazil-with-work-residency
-│  ├─ rj-work-list-quick-facts
-│  ├─ rj-work-list-common-challenges-applicants-face
-│  ├─ rj-work-list-how-we-solve-these-challenges
-│  ├─ rj-work-section-residency-overview
-│  ├─ rj-work-form-who-is-this-residency-for
-│  ├─ rj-work-list-required-documents
-│  ├─ rj-work-list-application-process
-│  ├─ rj-work-section-timelines-deadlines
-│  ├─ rj-work-section-fees-costs
-│  ├─ rj-work-list-risks-common-mistakes
-│  ├─ rj-work-section-diy-vs-professional-assistance
-│  ├─ rj-work-section-rio-de-janeiro-specific-context
-│  ├─ rj-work-section-what-our-clients-say
-│  ├─ rj-work-section-frequently-asked-questions
-│  ├─ rj-work-section-international-support
-│  ├─ application-form
-│  ├─ rj-work-list-our-credentials
-│  ├─ rj-work-list-related-services
-│  ├─ rj-work-section-youre-in-good-hands
-│  ├─ rj-work-section-21
-
-├─ startup.html
-│  ├─ rj-startup-form-launch-your-startup-in-brazil-with-the-startup-visa
-│  ├─ rj-startup-list-quick-facts
-│  ├─ rj-startup-list-common-challenges-applicants-face
-│  ├─ rj-startup-list-how-we-solve-these-challenges
-│  ├─ rj-startup-section-visa-overview
-│  ├─ rj-startup-form-who-is-this-visa-for
-│  ├─ rj-startup-list-required-documents
-│  ├─ rj-startup-list-application-process
-│  ├─ rj-startup-section-timelines-deadlines
-│  ├─ rj-startup-section-fees-costs
-│  ├─ rj-startup-list-risks-common-mistakes
-│  ├─ rj-startup-section-diy-vs-professional-assistance
-│  ├─ rj-startup-section-rio-de-janeiro-specific-context
-│  ├─ rj-startup-section-what-our-clients-say
-│  ├─ rj-startup-section-frequently-asked-questions
-│  ├─ rj-startup-section-international-support
-│  ├─ application-form
-│  ├─ rj-startup-list-our-credentials
-│  ├─ rj-startup-list-related-services
-│  ├─ rj-startup-section-youre-in-good-hands
-│  ├─ rj-startup-section-21
-
-├─ family.html
-│  ├─ rj-family-form-reunite-with-family-in-brazil-with-the-family-visa
-│  ├─ rj-family-list-quick-facts
-│  ├─ rj-family-list-common-challenges-applicants-face
-│  ├─ rj-family-list-how-we-solve-these-challenges
-│  ├─ rj-family-section-visa-overview
-│  ├─ rj-family-form-who-is-this-visa-for
-│  ├─ rj-family-list-required-documents
-│  ├─ rj-family-list-application-process
-│  ├─ rj-family-section-timelines-deadlines
-│  ├─ rj-family-section-fees-costs
-│  ├─ rj-family-list-risks-common-mistakes
-│  ├─ rj-family-section-diy-vs-professional-assistance
-│  ├─ rj-family-section-rio-de-janeiro-specific-context
-│  ├─ rj-family-section-what-our-clients-say
-│  ├─ rj-family-section-frequently-asked-questions
-│  ├─ rj-family-section-international-support
-│  ├─ application-form
-│  ├─ rj-family-list-our-credentials
-│  ├─ rj-family-list-related-services
-│  ├─ rj-family-section-youre-in-good-hands
-│  ├─ rj-family-section-21
-
-├─ sports.html
-│  ├─ rj-sports-form-compete-in-brazil-with-the-sports-visa
-│  ├─ rj-sports-list-quick-facts
-│  ├─ rj-sports-list-common-challenges-applicants-face
-│  ├─ rj-sports-list-how-we-solve-these-challenges
-│  ├─ rj-sports-section-visa-overview
-│  ├─ rj-sports-form-who-is-this-visa-for
-│  ├─ rj-sports-list-required-documents
-│  ├─ rj-sports-list-application-process
-│  ├─ rj-sports-section-timelines-deadlines
-│  ├─ rj-sports-section-fees-costs
-│  ├─ rj-sports-list-risks-common-mistakes
-│  ├─ rj-sports-section-diy-vs-professional-assistance
-│  ├─ rj-sports-section-rio-de-janeiro-specific-context
-│  ├─ rj-sports-section-what-our-clients-say
-│  ├─ rj-sports-section-frequently-asked-questions
-│  ├─ rj-sports-section-international-support
-│  ├─ application-form
-│  ├─ rj-sports-list-our-credentials
-│  ├─ rj-sports-list-related-services
-│  ├─ rj-sports-section-youre-in-good-hands
-│  ├─ rj-sports-section-21
-
-├─ medical.html
-│  ├─ rj-medical-form-receive-medical-treatment-in-brazil-with-the-medical-visa
-│  ├─ rj-medical-list-quick-facts
-│  ├─ rj-medical-list-common-challenges-applicants-face
-│  ├─ rj-medical-list-how-we-solve-these-challenges
-│  ├─ rj-medical-section-visa-overview
-│  ├─ rj-medical-form-who-is-this-visa-for
-│  ├─ rj-medical-list-required-documents
-│  ├─ rj-medical-list-application-process
-│  ├─ rj-medical-section-timelines-deadlines
-│  ├─ rj-medical-section-fees-costs
-│  ├─ rj-medical-list-risks-common-mistakes
-│  ├─ rj-medical-section-diy-vs-professional-assistance
-│  ├─ rj-medical-section-rio-de-janeiro-specific-context
-│  ├─ rj-medical-section-what-our-clients-say
-│  ├─ rj-medical-section-frequently-asked-questions
-│  ├─ rj-medical-section-international-support
-│  ├─ application-form
-│  ├─ rj-medical-list-our-credentials
-│  ├─ rj-medical-list-related-services
-│  ├─ rj-medical-section-youre-in-good-hands
-│  ├─ rj-medical-section-21
-
-├─ tourist.html
-│  ├─ rj-tourist-form-visit-brazil-as-a-tourist-with-the-tourist-visa
-│  ├─ rj-tourist-list-quick-facts
-│  ├─ rj-tourist-list-common-challenges-applicants-face
-│  ├─ rj-tourist-list-how-we-solve-these-challenges
-│  ├─ rj-tourist-section-visa-overview
-│  ├─ rj-tourist-form-who-is-this-visa-for
-│  ├─ rj-tourist-list-required-documents
-│  ├─ rj-tourist-list-application-process
-│  ├─ rj-tourist-section-timelines-deadlines
-│  ├─ rj-tourist-section-fees-costs
-│  ├─ rj-tourist-list-risks-common-mistakes
-│  ├─ rj-tourist-section-diy-vs-professional-assistance
-│  ├─ rj-tourist-section-rio-de-janeiro-specific-context
-│  ├─ rj-tourist-section-what-our-clients-say
-│  ├─ rj-tourist-section-frequently-asked-questions
-│  ├─ rj-tourist-section-international-support
-│  ├─ application-form
-│  ├─ rj-tourist-list-our-credentials
-│  ├─ rj-tourist-list-related-services
-│  ├─ rj-tourist-section-youre-in-good-hands
-│  ├─ rj-tourist-section-21
-
-├─ transit.html
-│  ├─ rj-transit-form-transit-through-brazil-with-the-transit-visa
-│  ├─ rj-transit-list-quick-facts
-│  ├─ rj-transit-list-common-challenges-applicants-face
-│  ├─ rj-transit-list-how-we-solve-these-challenges
-│  ├─ rj-transit-section-visa-overview
-│  ├─ rj-transit-form-who-is-this-visa-for
-│  ├─ rj-transit-list-required-documents
-│  ├─ rj-transit-list-application-process
-│  ├─ rj-transit-section-timelines-deadlines
-│  ├─ rj-transit-section-fees-costs
-│  ├─ rj-transit-list-risks-common-mistakes
-│  ├─ rj-transit-section-diy-vs-professional-assistance
-│  ├─ rj-transit-section-rio-de-janeiro-specific-context
-│  ├─ rj-transit-section-what-our-clients-say
-│  ├─ rj-transit-section-frequently-asked-questions
-│  ├─ rj-transit-section-international-support
-│  ├─ application-form
-│  ├─ rj-transit-list-our-credentials
-│  ├─ rj-transit-list-related-services
-│  ├─ rj-transit-section-youre-in-good-hands
-│  ├─ rj-transit-section-21
-
-├─ student.html
-│  ├─ rj-student-form-study-in-brazil-with-the-student-visa
-│  ├─ rj-student-list-quick-facts
-│  ├─ rj-student-list-common-challenges-applicants-face
-│  ├─ rj-student-list-how-we-solve-these-challenges
-│  ├─ rj-student-section-visa-overview
-│  ├─ rj-student-form-who-is-this-visa-for
-│  ├─ rj-student-list-required-documents
-│  ├─ rj-student-list-application-process
-│  ├─ rj-student-section-timelines-deadlines
-│  ├─ rj-student-section-fees-costs
-│  ├─ rj-student-list-risks-common-mistakes
-│  ├─ rj-student-section-diy-vs-professional-assistance
-│  ├─ rj-student-section-rio-de-janeiro-specific-context
-│  ├─ rj-student-section-what-our-clients-say
-│  ├─ rj-student-section-frequently-asked-questions
-│  ├─ rj-student-section-international-support
-│  ├─ application-form
-│  ├─ rj-student-list-our-credentials
-│  ├─ rj-student-list-related-services
-│  ├─ rj-student-section-youre-in-good-hands
-│  ├─ rj-student-section-21
-
-├─ business.html
-│  ├─ rj-business-form-conduct-business-in-brazil-with-the-business-visa
-│  ├─ rj-business-list-quick-facts
-│  ├─ rj-business-list-common-challenges-applicants-face
-│  ├─ rj-business-list-how-we-solve-these-challenges
-│  ├─ rj-business-section-visa-overview
-│  ├─ rj-business-form-who-is-this-visa-for
-│  ├─ rj-business-list-required-documents
-│  ├─ rj-business-list-application-process
-│  ├─ rj-business-section-timelines-deadlines
-│  ├─ rj-business-section-fees-costs
-│  ├─ rj-business-list-risks-common-mistakes
-│  ├─ rj-business-section-diy-vs-professional-assistance
-│  ├─ rj-business-section-rio-de-janeiro-specific-context
-│  ├─ rj-business-section-what-our-clients-say
-│  ├─ rj-business-section-frequently-asked-questions
-│  ├─ rj-business-section-international-support
-│  ├─ application-form
-│  ├─ rj-business-list-our-credentials
-│  ├─ rj-business-list-related-services
-│  ├─ rj-business-section-youre-in-good-hands
-│  ├─ rj-business-section-21
-
-├─ research.html
-│  ├─ rj-research-form-conduct-research-in-brazil-with-the-research-visa
-│  ├─ rj-research-list-quick-facts
-│  ├─ rj-research-list-common-challenges-applicants-face
-│  ├─ rj-research-list-how-we-solve-these-challenges
-│  ├─ rj-research-section-visa-overview
-│  ├─ rj-research-form-who-is-this-visa-for
-│  ├─ rj-research-list-required-documents
-│  ├─ rj-research-list-application-process
-│  ├─ rj-research-section-timelines-deadlines
-│  ├─ rj-research-section-fees-costs
-│  ├─ rj-research-list-risks-common-mistakes
-│  ├─ rj-research-section-diy-vs-professional-assistance
-│  ├─ rj-research-section-rio-de-janeiro-specific-context
-│  ├─ rj-research-section-what-our-clients-say
-│  ├─ rj-research-section-frequently-asked-questions
-│  ├─ rj-research-section-international-support
-│  ├─ application-form
-│  ├─ rj-research-list-our-credentials
-│  ├─ rj-research-list-related-services
-│  ├─ rj-research-section-youre-in-good-hands
-│  ├─ rj-research-section-21
-
-├─ diplomatic.html
-│  ├─ rj-diplomatic-form-official-diplomatic-visa-for-brazil-missions
-│  ├─ rj-diplomatic-list-quick-facts
-│  ├─ rj-diplomatic-list-common-challenges-applicants-face
-│  ├─ rj-diplomatic-list-how-we-solve-these-challenges
-│  ├─ rj-diplomatic-section-visa-overview
-│  ├─ rj-diplomatic-form-who-is-this-visa-for
-│  ├─ rj-diplomatic-list-required-documents
-│  ├─ rj-diplomatic-list-application-process
-│  ├─ rj-diplomatic-section-timelines-deadlines
-│  ├─ rj-diplomatic-section-fees-costs
-│  ├─ rj-diplomatic-list-risks-common-mistakes
-│  ├─ rj-diplomatic-section-diy-vs-professional-assistance
-│  ├─ rj-diplomatic-section-rio-de-janeiro-specific-context
-│  ├─ rj-diplomatic-section-what-our-clients-say
-│  ├─ rj-diplomatic-section-frequently-asked-questions
-│  ├─ rj-diplomatic-section-international-support
-│  ├─ application-form
-│  ├─ rj-diplomatic-list-our-credentials
-│  ├─ rj-diplomatic-list-related-services
-│  ├─ rj-diplomatic-section-youre-in-good-hands
-│  ├─ rj-diplomatic-section-21
-
-├─ journalist.html
-│  ├─ rj-journalist-form-cover-news-in-brazil-with-the-journalist-visa
-│  ├─ rj-journalist-list-quick-facts
-│  ├─ rj-journalist-list-common-challenges-applicants-face
-│  ├─ rj-journalist-list-how-we-solve-these-challenges
-│  ├─ rj-journalist-section-visa-overview
-│  ├─ rj-journalist-form-who-is-this-visa-for
-│  ├─ rj-journalist-list-required-documents
-│  ├─ rj-journalist-list-application-process
-│  ├─ rj-journalist-section-timelines-deadlines
-│  ├─ rj-journalist-section-fees-costs
-│  ├─ rj-journalist-list-risks-common-mistakes
-│  ├─ rj-journalist-section-diy-vs-professional-assistance
-│  ├─ rj-journalist-section-rio-de-janeiro-specific-context
-│  ├─ rj-journalist-section-what-our-clients-say
-│  ├─ rj-journalist-section-frequently-asked-questions
-│  ├─ rj-journalist-section-international-support
-│  ├─ application-form
-│  ├─ rj-journalist-list-our-credentials
-│  ├─ rj-journalist-list-related-services
-│  ├─ rj-journalist-section-youre-in-good-hands
-│  ├─ rj-journalist-section-21
-
-├─ fines.html
-│  ├─ rj-fines-form-resolve-immigration-fines-in-brazil
-│  ├─ rj-fines-list-quick-facts
-│  ├─ rj-fines-list-common-challenges-applicants-face
-│  ├─ rj-fines-list-how-we-solve-these-challenges
-│  ├─ rj-fines-section-service-overview
-│  ├─ rj-fines-form-who-is-this-service-for
-│  ├─ rj-fines-list-required-documents
-│  ├─ rj-fines-list-process
-│  ├─ rj-fines-section-timelines-deadlines
-│  ├─ rj-fines-section-fees-costs
-│  ├─ rj-fines-list-risks-common-mistakes
-│  ├─ rj-fines-section-diy-vs-professional-assistance
-│  ├─ rj-fines-section-rio-de-janeiro-specific-context
-│  ├─ rj-fines-section-what-our-clients-say
-│  ├─ rj-fines-section-frequently-asked-questions
-│  ├─ rj-fines-section-international-support
-│  ├─ application-form
-│  ├─ rj-fines-list-our-credentials
-│  ├─ rj-fines-list-related-services
-│  ├─ rj-fines-section-youre-in-good-hands
-│  ├─ rj-fines-section-21
-
-├─ deportation.html
-│  ├─ rj-deportation-form-deportation-assistance-in-brazil
-│  ├─ rj-deportation-list-quick-facts
-│  ├─ rj-deportation-list-common-challenges-applicants-face
-│  ├─ rj-deportation-list-how-we-solve-these-challenges
-│  ├─ rj-deportation-section-service-overview
-│  ├─ rj-deportation-form-who-is-this-service-for
-│  ├─ rj-deportation-list-required-documents
-│  ├─ rj-deportation-list-process
-│  ├─ rj-deportation-section-timelines-deadlines
-│  ├─ rj-deportation-section-fees-costs
-│  ├─ rj-deportation-list-risks-common-mistakes
-│  ├─ rj-deportation-section-diy-vs-professional-assistance
-│  ├─ rj-deportation-section-rio-de-janeiro-specific-context
-│  ├─ rj-deportation-section-what-our-clients-say
-│  ├─ rj-deportation-section-frequently-asked-questions
-│  ├─ rj-deportation-section-international-support
-│  ├─ application-form
-│  ├─ rj-deportation-list-our-credentials
-│  ├─ rj-deportation-list-related-services
-│  ├─ rj-deportation-section-youre-in-good-hands
-│  ├─ rj-deportation-section-21
-
-├─ translation.html
-│  ├─ rj-translation-form-sworn-document-translation-services-in-brazil
-│  ├─ rj-translation-list-quick-facts
-│  ├─ rj-translation-list-common-challenges-applicants-face
-│  ├─ rj-translation-list-how-we-solve-these-challenges
-│  ├─ rj-translation-section-service-overview
-│  ├─ rj-translation-form-who-is-this-service-for
-│  ├─ rj-translation-list-required-documents
-│  ├─ rj-translation-list-process
-│  ├─ rj-translation-section-timelines-deadlines
-│  ├─ rj-translation-section-fees-costs
-│  ├─ rj-translation-list-risks-common-mistakes
-│  ├─ rj-translation-section-diy-vs-professional-assistance
-│  ├─ rj-translation-section-rio-de-janeiro-specific-context
-│  ├─ rj-translation-section-what-our-clients-say
-│  ├─ rj-translation-section-frequently-asked-questions
-│  ├─ rj-translation-section-international-support
-│  ├─ application-form
-│  ├─ rj-translation-list-our-credentials
-│  ├─ rj-translation-list-related-services
-│  ├─ rj-translation-section-youre-in-good-hands
-│  ├─ rj-translation-section-21
-
-├─ expulsion.html
-│  ├─ rj-expulsion-form-expulsion-assistance-in-brazil
-│  ├─ rj-expulsion-list-quick-facts
-│  ├─ rj-expulsion-list-common-challenges-applicants-face
-│  ├─ rj-expulsion-list-how-we-solve-these-challenges
-│  ├─ rj-expulsion-section-service-overview
-│  ├─ rj-expulsion-form-who-is-this-service-for
-│  ├─ rj-expulsion-list-required-documents
-│  ├─ rj-expulsion-list-process
-│  ├─ rj-expulsion-section-timelines-deadlines
-│  ├─ rj-expulsion-section-fees-costs
-│  ├─ rj-expulsion-list-risks-common-mistakes
-│  ├─ rj-expulsion-section-diy-vs-professional-assistance
-│  ├─ rj-expulsion-section-rio-de-janeiro-specific-context
-│  ├─ rj-expulsion-section-what-our-clients-say
-│  ├─ rj-expulsion-section-frequently-asked-questions
-│  ├─ rj-expulsion-section-international-support
-│  ├─ application-form
-│  ├─ rj-expulsion-list-our-credentials
-│  ├─ rj-expulsion-list-related-services
-│  ├─ rj-expulsion-section-youre-in-good-hands
-│  ├─ rj-expulsion-section-21
-
-├─ appeals.html
-│  ├─ rj-appeals-form-appeal-immigration-denials-in-brazil
-│  ├─ rj-appeals-list-quick-facts
-│  ├─ rj-appeals-list-common-challenges-applicants-face
-│  ├─ rj-appeals-list-how-we-solve-these-challenges
-│  ├─ rj-appeals-section-service-overview
-│  ├─ rj-appeals-form-who-is-this-service-for
-│  ├─ rj-appeals-list-required-documents
-│  ├─ rj-appeals-list-appeal-process
-│  ├─ rj-appeals-section-timelines-deadlines
-│  ├─ rj-appeals-section-fees-costs
-│  ├─ rj-appeals-list-risks-common-mistakes
-│  ├─ rj-appeals-section-diy-vs-professional-assistance
-│  ├─ rj-appeals-section-rio-de-janeiro-specific-context
-│  ├─ rj-appeals-section-what-our-clients-say
-│  ├─ rj-appeals-section-frequently-asked-questions
-│  ├─ rj-appeals-section-international-support
-│  ├─ application-form
-│  ├─ rj-appeals-list-our-credentials
-│  ├─ rj-appeals-list-related-services
-│  ├─ rj-appeals-section-youre-in-good-hands
-│  ├─ rj-appeals-section-21
-
-├─ consular.html
-│  ├─ rj-consular-form-consular-services-in-brazil-for-citizens
-│  ├─ rj-consular-list-quick-facts
-│  ├─ rj-consular-list-common-challenges-applicants-face
-│  ├─ rj-consular-list-how-we-solve-these-challenges
-│  ├─ rj-consular-section-service-overview
-│  ├─ rj-consular-form-who-is-this-service-for
-│  ├─ rj-consular-list-required-documents
-│  ├─ rj-consular-list-process
-│  ├─ rj-consular-section-timelines-deadlines
-│  ├─ rj-consular-section-fees-costs
-│  ├─ rj-consular-list-risks-common-mistakes
-│  ├─ rj-consular-section-diy-vs-professional-assistance
-│  ├─ rj-consular-section-rio-de-janeiro-specific-context
-│  ├─ rj-consular-section-what-our-clients-say
-│  ├─ rj-consular-section-frequently-asked-questions
-│  ├─ rj-consular-section-international-support
-│  ├─ application-form
-│  ├─ rj-consular-list-our-credentials
-│  ├─ rj-consular-list-related-services
-│  ├─ rj-consular-section-youre-in-good-hands
-│  ├─ rj-consular-section-21
-
-├─ criminal-records.html
-│  ├─ rj-criminalrecords-form-obtain-criminal-records-certificate-in-brazil
-│  ├─ rj-criminalrecords-list-quick-facts
-│  ├─ rj-criminalrecords-list-common-challenges-applicants-face
-│  ├─ rj-criminalrecords-list-how-we-solve-these-challenges
-│  ├─ rj-criminalrecords-section-service-overview
-│  ├─ rj-criminalrecords-form-who-is-this-service-for
-│  ├─ rj-criminalrecords-list-required-documents
-│  ├─ rj-criminalrecords-list-process
-│  ├─ rj-criminalrecords-section-timelines-deadlines
-│  ├─ rj-criminalrecords-section-fees-costs
-│  ├─ rj-criminalrecords-list-risks-common-mistakes
-│  ├─ rj-criminalrecords-section-diy-vs-professional-assistance
-│  ├─ rj-criminalrecords-section-rio-de-janeiro-specific-context
-│  ├─ rj-criminalrecords-section-what-our-clients-say
-│  ├─ rj-criminalrecords-section-frequently-asked-questions
-│  ├─ rj-criminalrecords-section-international-support
-│  ├─ application-form
-│  ├─ rj-criminalrecords-list-our-credentials
-│  ├─ rj-criminalrecords-list-related-services
-│  ├─ rj-criminalrecords-section-youre-in-good-hands
-│  ├─ rj-criminalrecords-section-21
-
-├─ extradition.html
-│  ├─ rj-extradition-form-extradition-assistance-in-brazil
-│  ├─ rj-extradition-list-quick-facts
-│  ├─ rj-extradition-list-common-challenges-applicants-face
-│  ├─ rj-extradition-list-how-we-solve-these-challenges
-│  ├─ rj-extradition-section-service-overview
-│  ├─ rj-extradition-form-who-is-this-service-for
-│  ├─ rj-extradition-list-required-documents
-│  ├─ rj-extradition-list-process
-│  ├─ rj-extradition-section-timelines-deadlines
-│  ├─ rj-extradition-section-fees-costs
-│  ├─ rj-extradition-list-risks-common-mistakes
-│  ├─ rj-extradition-section-diy-vs-professional-assistance
-│  ├─ rj-extradition-section-rio-de-janeiro-specific-context
-│  ├─ rj-extradition-section-what-our-clients-say
-│  ├─ rj-extradition-section-frequently-asked-questions
-│  ├─ rj-extradition-section-international-support
-│  ├─ application-form
-│  ├─ rj-extradition-list-our-credentials
-│  ├─ rj-extradition-list-related-services
-│  ├─ rj-extradition-section-youre-in-good-hands
-│  ├─ rj-extradition-section-21
-
-├─ north.html
-│  ├─ rj-north-form-discover-the-north-amazon-and-beyond
-│  ├─ rj-north-list-quick-facts
-│  ├─ rj-north-list-common-challenges-applicants-face
-│  ├─ rj-north-list-how-we-solve-these-challenges
-│  ├─ rj-north-section-trip-overview
-│  ├─ rj-north-form-who-is-this-trip-for
-│  ├─ rj-north-list-required-documents
-│  ├─ rj-north-list-booking-process
-│  ├─ rj-north-section-timelines-deadlines
-│  ├─ rj-north-section-fees-costs
-│  ├─ rj-north-list-risks-common-mistakes
-│  ├─ rj-north-section-diy-vs-professional-assistance
-│  ├─ rj-north-section-rio-de-janeiro-specific-context
-│  ├─ rj-north-section-what-our-clients-say
-│  ├─ rj-north-section-frequently-asked-questions
-│  ├─ rj-north-section-international-support
-│  ├─ application-form
-│  ├─ rj-north-list-our-credentials
-│  ├─ rj-north-list-related-services
-│  ├─ rj-north-section-youre-in-good-hands
-│  ├─ rj-north-section-21
+├─ mobile-nav.html
+│  ├─ mobile-nav
 
 ├─ central-west.html
-│  ├─ rj-centralwest-form-wild-centralwest-pantanal-and-cerrado
-│  ├─ rj-centralwest-list-quick-facts
-│  ├─ rj-centralwest-list-common-challenges-applicants-face
-│  ├─ rj-centralwest-list-how-we-solve-these-challenges
-│  ├─ rj-centralwest-section-trip-overview
-│  ├─ rj-centralwest-form-who-is-this-trip-for
-│  ├─ rj-centralwest-list-required-documents
-│  ├─ rj-centralwest-list-booking-process
-│  ├─ rj-centralwest-section-timelines-deadlines
-│  ├─ rj-centralwest-section-fees-costs
-│  ├─ rj-centralwest-list-risks-common-mistakes
-│  ├─ rj-centralwest-section-diy-vs-professional-assistance
-│  ├─ rj-centralwest-section-rio-de-janeiro-specific-context
-│  ├─ rj-centralwest-section-what-our-clients-say
-│  ├─ rj-centralwest-section-frequently-asked-questions
-│  ├─ rj-centralwest-section-international-support
-│  ├─ application-form
-│  ├─ rj-centralwest-list-our-credentials
-│  ├─ rj-centralwest-list-related-services
-│  ├─ rj-centralwest-section-youre-in-good-hands
-│  ├─ rj-centralwest-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
-├─ southeast.html
-│  ├─ rj-southeast-form-dynamic-southeast-cities-and-history
-│  ├─ rj-southeast-list-quick-facts
-│  ├─ rj-southeast-list-common-challenges-applicants-face
-│  ├─ rj-southeast-list-how-we-solve-these-challenges
-│  ├─ rj-southeast-section-trip-overview
-│  ├─ rj-southeast-form-who-is-this-trip-for
-│  ├─ rj-southeast-list-required-documents
-│  ├─ rj-southeast-list-booking-process
-│  ├─ rj-southeast-section-timelines-deadlines
-│  ├─ rj-southeast-section-fees-costs
-│  ├─ rj-southeast-list-risks-common-mistakes
-│  ├─ rj-southeast-section-diy-vs-professional-assistance
-│  ├─ rj-southeast-section-rio-de-janeiro-specific-context
-│  ├─ rj-southeast-section-what-our-clients-say
-│  ├─ rj-southeast-section-frequently-asked-questions
-│  ├─ rj-southeast-section-international-support
-│  ├─ application-form
-│  ├─ rj-southeast-list-our-credentials
-│  ├─ rj-southeast-list-related-services
-│  ├─ rj-southeast-section-youre-in-good-hands
-│  ├─ rj-southeast-section-21
+├─ north.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ northeast.html
-│  ├─ rj-northeast-form-vibrant-northeast-beaches-and-culture
-│  ├─ rj-northeast-list-quick-facts
-│  ├─ rj-northeast-list-common-challenges-applicants-face
-│  ├─ rj-northeast-list-how-we-solve-these-challenges
-│  ├─ rj-northeast-section-trip-overview
-│  ├─ rj-northeast-form-who-is-this-trip-for
-│  ├─ rj-northeast-list-required-documents
-│  ├─ rj-northeast-list-booking-process
-│  ├─ rj-northeast-section-timelines-deadlines
-│  ├─ rj-northeast-section-fees-costs
-│  ├─ rj-northeast-list-risks-common-mistakes
-│  ├─ rj-northeast-section-diy-vs-professional-assistance
-│  ├─ rj-northeast-section-rio-de-janeiro-specific-context
-│  ├─ rj-northeast-section-what-our-clients-say
-│  ├─ rj-northeast-section-frequently-asked-questions
-│  ├─ rj-northeast-section-international-support
-│  ├─ application-form
-│  ├─ rj-northeast-list-our-credentials
-│  ├─ rj-northeast-list-related-services
-│  ├─ rj-northeast-section-youre-in-good-hands
-│  ├─ rj-northeast-section-21
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
 
 ├─ south.html
-│  ├─ rj-south-form-charming-south-wine-and-gauchos
-│  ├─ rj-south-list-quick-facts
-│  ├─ rj-south-list-common-challenges-applicants-face
-│  ├─ rj-south-list-how-we-solve-these-challenges
-│  ├─ rj-south-section-trip-overview
-│  ├─ rj-south-form-who-is-this-trip-for
-│  ├─ rj-south-list-required-documents
-│  ├─ rj-south-list-booking-process
-│  ├─ rj-south-section-timelines-deadlines
-│  ├─ rj-south-section-fees-costs
-│  ├─ rj-south-list-risks-common-mistakes
-│  ├─ rj-south-section-diy-vs-professional-assistance
-│  ├─ rj-south-section-rio-de-janeiro-specific-context
-│  ├─ rj-south-section-what-our-clients-say
-│  ├─ rj-south-section-frequently-asked-questions
-│  ├─ rj-south-section-international-support
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ southeast.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ derivative.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ extraordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ ordinary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ provisional.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ reacquisition-citizenship.html
+│  ├─ hero-heading
 │  ├─ application-form
-│  ├─ rj-south-list-our-credentials
-│  ├─ rj-south-list-related-services
-│  ├─ rj-south-section-youre-in-good-hands
-│  ├─ rj-south-section-21
+
+├─ reacquisition.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ renouncing-citizenship.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ special.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ apostille.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ appeals.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ authentication.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ company-formation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ consular.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ consultation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cpf.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ criminal-records.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ deportation.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ expulsion.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ extradition.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ fines.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ power-of-attorney.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ rne.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ translation.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cplp.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ crnm.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family-reunion.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ health-treatment.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investment.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ investor.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ marriage.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ mercosul.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ permanent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ researcher.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ scientific-research.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ skilled-worker.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ startup.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ study.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ temporary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ youth-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ artist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ artistic.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ business.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ crew.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ cultural.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ dependent.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ digital-nomad.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ diplomatic.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ educational-exchange.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ family.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ humanitarian.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ investor.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ journalist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ medical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ missionary.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ official.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ religious.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ research.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ retiree.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ sports.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ startup.html
+│  ├─ hero-heading
+│  ├─ application-form
+
+├─ student.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ technical.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ tourist.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ transit.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ volunteer.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work-mercosur.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
+
+├─ work.html
+│  ├─ details
+│  ├─ contact
+│  ├─ name
+│  ├─ email
+│  ├─ phone
+│  ├─ nationality
+│  ├─ message
+│  ├─ cookie-consent
